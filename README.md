@@ -52,5 +52,5 @@ cd stock-analyzer
 pip install -r requirements.txt
 
 
-## Visit site by using this QR-Code
-<img width="1000" height="1000" alt="Stock Price Analyser" src="https://github.com/user-attachments/assets/beeb9bbf-db52-48be-8908-3dd105454547" />
+## Visit site by using this URL
+https://mynameisnajaf-real-time-stock-price-analyser-main-pw3sj8.streamlit.app/
